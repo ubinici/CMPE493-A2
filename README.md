@@ -95,4 +95,6 @@ However, it is essential to note that the extremely low performance of the Berno
 
 ## 5. Screenshots
 
-[Include screenshots of your algorithms running here]
+![](https://zeu.s-ul.eu/oYd4pjBM.png)
+
+![](https://zeu.s-ul.eu/oytBWjl3.png)
