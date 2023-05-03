@@ -1,5 +1,7 @@
 # Reuters Text Classification Report
 
+***Before running the script, see: [README](_README.txt)***
+
 ## Report Outline
 
 1. [Data Preprocessing](#1-data-preprocessing)
